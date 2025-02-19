@@ -15,7 +15,7 @@ export default function Hero() {
         <div className="mb-8">
           <img 
             src="https://res.cloudinary.com/dgu0acngm/image/upload/v1739943217/RahulGurav_g9b8yp.png" 
-            alt="Profile Avatar" 
+            alt="Profile Avatar Pic" 
             className="w-[180px] h-[180px] rounded-full mx-auto border-4 border-purple-500 shadow-lg shadow-purple-500/50"
           />
         </div>
